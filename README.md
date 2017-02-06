@@ -26,6 +26,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 
 Run `ng github-pages:deploy` to deploy to GitHub Pages.
 
-## Further help
+## DB 
 
-To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Run 'json-server --watch db.json' in data folder to make sure Api's works fine.
+( https://github.com/typicode/json-server) 
